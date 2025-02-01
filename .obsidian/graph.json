@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Компьютерные сети\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9410816
+      }
+    },
+    {
+      "query": "path:Linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 6392022
+      }
+    },
+    {
+      "query": "path:Разработка  ",
+      "color": {
+        "a": 1,
+        "rgb": 660223
+      }
+    },
+    {
+      "query": "path:\"Безопасность веб-приложений\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3008169
+      }
+    },
+    {
+      "query": "path:Pentest  ",
+      "color": {
+        "a": 1,
+        "rgb": 8588300
+      }
+    },
+    {
+      "query": "tag:#Структура  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2.1,
+  "nodeSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 0.508333333333333,
+  "collapse-forces": true,
+  "centerStrength": 0.348958333333333,
+  "repelStrength": 19.7916666666667,
+  "linkStrength": 0.9375,
+  "linkDistance": 170,
+  "scale": 0.06601075409690427,
+  "close": true
+}
