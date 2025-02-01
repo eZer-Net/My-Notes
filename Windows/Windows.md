@@ -3,4 +3,4 @@
 ## Описание
 Здесь будет обобщённые термины с работой связанные с OC Windows
 
-# [[Windows Active Directory]]
+# [[Windows Active Directory|AD - Active Directory]]
