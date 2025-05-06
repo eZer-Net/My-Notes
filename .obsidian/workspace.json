@@ -13,48 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentest/Основные категории/Информационная безопасность/Информационная безопасность.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Информационная безопасность"
-            }
-          },
-          {
-            "id": "6068dfdc1f611e3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Операционные системы/Linux/Администрирования системы/Привилегии/Привилегии.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Привилегии"
-            }
-          },
-          {
-            "id": "f3baafd6a9a4f209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentest/Основные категории/Информационная безопасность/OAST, SAST, SCA и DAST.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OAST, SAST, SCA и DAST"
-            }
-          },
-          {
-            "id": "88c72f7beacd55e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Разработка/DevOps-DevSecOps/SDLC-SSDLC.md",
                 "mode": "source",
                 "source": false
@@ -64,17 +22,87 @@
             }
           },
           {
-            "id": "015fdafb809a062c",
+            "id": "771e9f11ff414691",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Операционные системы/Linux/Linux.md",
+                "file": "Pentest/Основные категории/Информационная безопасность/Основные категории тестирования безопасности OAST, SAST, SCA, DAST ....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "Основные категории тестирования безопасности OAST, SAST, SCA, DAST ..."
+            }
+          },
+          {
+            "id": "f3baafd6a9a4f209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentest/Основные категории/2.3 Инструменты направленные на WhiteBox/SCA (Software Composition Analysis).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SCA (Software Composition Analysis)"
+            }
+          },
+          {
+            "id": "4e25950aaabade16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentest/Основные категории/2.3 Инструменты направленные на WhiteBox/Dependency-Track.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dependency-Track"
+            }
+          },
+          {
+            "id": "8edf95e8ad7aa4a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentest/Термины.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Термины"
+            }
+          },
+          {
+            "id": "88c72f7beacd55e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentest/Основные категории/2.3 Инструменты направленные на WhiteBox/Semgrep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Semgrep"
+            }
+          },
+          {
+            "id": "5a013f5416368ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentest/Термины.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Термины"
             }
           }
         ],
@@ -233,10 +261,27 @@
       "publish:Публикация изменений": false
     }
   },
-  "active": "015fdafb809a062c",
+  "active": "8edf95e8ad7aa4a5",
   "lastOpenFiles": [
-    "Операционные системы/Linux/Администрирования системы/Механизмы управления доступом/Механизмы управления доступом.md",
+    "Pentest/_PENTEST.md",
+    "Pentest/Термины.md",
+    "README.md",
+    "Pentest/Основные категории/2.3 Инструменты направленные на WhiteBox/SonarQube.md",
+    "Pentest/Основные категории/Информационная безопасность/Основные категории тестирования безопасности OAST, SAST, SCA, DAST ....md",
+    "Pentest/Основные категории/2.3 Инструменты направленные на WhiteBox/SAST (Static Application Security Testing).md",
+    "Pentest/Основные категории/2.3 Инструменты направленные на WhiteBox/SCA (Software Composition Analysis).md",
+    "Pentest/Основные категории/2.3 Инструменты направленные на WhiteBox/Semgrep.md",
+    "Pentest/Основные категории/2.3 Инструменты направленные на WhiteBox/Dependency-Track.md",
+    "Разработка/DevOps-DevSecOps/SDLC-SSDLC.md",
+    "Pentest/Основные категории/Информационная безопасность/Информационная безопасность.md",
+    "Разработка/Контейнеризация/Контейнеризация.md",
+    "Операционные системы/Linux/Администрирования системы/Привилегии/Привилегии.md",
     "Операционные системы/Linux/Linux.md",
+    "_Изображения/Изображения pentest/Pasted image 20250506140209.png",
+    "Pentest/Основные категории/2.3 Инструменты направленные на WhiteBox/_Инструменты.md",
+    "_Изображения/Изображения pentest/Pasted image 20250506105423.png",
+    "_Изображения/Изображения pentest/Pasted image 20250506103701.png",
+    "Операционные системы/Linux/Администрирования системы/Механизмы управления доступом/Механизмы управления доступом.md",
     "Операционные системы/Linux/Администрирования системы/Файловая система.md",
     "Операционные системы/Linux/Администрирования системы/Командная оболочка (shell) в Linux/Командная оболочка (shell) в Linux.md",
     "Операционные системы/Linux/Администрирования системы/Процессы/Процессы.md",
@@ -247,20 +292,6 @@
     "Операционные системы/Linux/Базовая информация/Форматирование вывода.md",
     "Операционные системы/Linux/Базовая информация/Архивация и резервное копирование.md",
     "Операционные системы/Linux/Базовая информация/Устройства хранения.md",
-    "Операционные системы/Linux/Базовая информация/Поиск Файлов.md",
-    "Операционные системы/Linux/Базовая информация/Окружение.md",
-    "Операционные системы/Linux/Администрирования системы/Привилегии/Привилегии.md",
-    "Операционные системы/Linux/Базовая информация/Перенаправление.md",
-    "Операционные системы/Linux/Базовая информация/Работа с командами.md",
-    "Операционные системы/Linux/Базовая информация/Работа с файлами.md",
-    "Операционные системы/Linux/Базовая информация/Навигация.md",
-    "Операционные системы/Linux/Администрирования системы/Администрирование системы.md",
-    "Операционные системы/Linux/Базовая информация/Регулярные выражения.md",
-    "Операционные системы/Linux/Базовая информация/Компиляция программ.md",
-    "README.md",
-    "Pentest/Основные категории/Информационная безопасность/OAST, SAST, SCA и DAST.md",
-    "Pentest/Основные категории/1 Разведка/http ответы.md",
-    "Pentest/Основные категории/3 Защита/Защита через различные заголовки и политики в http.md",
     "Pentest/Основные категории/2 Виды атак и уязвимостей/На Веб-приложение/Clickjacking",
     "Pentest/Основные категории/2.3 Инструменты направленные на WhiteBox",
     "Разработка/DevOps-DevSecOps",
@@ -279,9 +310,6 @@
     "_Изображения/Изображения Linux/Pasted image 20250227153346.png",
     "_Изображения/Изображения Linux/Pasted image 20250227144737.png",
     "_Изображения/Изображения Linux/Pasted image 20250227144417.png",
-    "_Изображения/Изображения Linux/Pasted image 20250227140353.png",
-    "_Изображения/Изображения Linux/Pasted image 20250227140011.png",
-    "_Изображения/Изображения Linux/Pasted image 20250227135659.png",
     "Без названия 1.canvas",
     "Без названия 2.canvas"
   ]
